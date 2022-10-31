@@ -1,0 +1,1 @@
+{'normalized': [{'from': 'Dial_H_for_Hero', 'to': 'Dial H for Hero'}], 'pages': {'739372': {'pageid': 739372, 'ns': 0, 'title': 'Dial H for Hero', 'revisions': [{'slots': {'main': {'nosuchsection': ''}}}]}}}

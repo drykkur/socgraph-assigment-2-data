@@ -1,0 +1,1 @@
+{'normalized': [{'from': 'Earth_Force_(Marvel_Comics)', 'to': 'Earth Force (Marvel Comics)'}], 'pages': {'5627777': {'pageid': 5627777, 'ns': 0, 'title': 'Earth Force (Marvel Comics)', 'revisions': [{'slots': {'main': {'contentmodel': 'wikitext', 'contentformat': 'text/x-wiki', '*': '#REDIRECT [[List of Marvel Comics teams and organizations#E]]'}}}]}}}
